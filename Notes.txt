@@ -1,0 +1,15 @@
+After server setup
+1.routes
+2.controllers
+
+3. lib/db.js
+4. models - mongoose.Schema
+
+accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZmYmRmNTMxNWUzYTcxNDc5ZWE0ZDIiLCJpYXQiOjE3MzUzNzk4NTIsImV4cCI6MTczNTM4MDc1Mn0.XHKeJFYHwxmaSCBWcDGrpAz8qADjvkZSuxfBXzZK5Og; Path=/; HttpOnly; Expires=Sat, 28 Dec 2024 10:12:32 GMT;
+
+
+accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZmYmRmNTMxNWUzYTcxNDc5ZWE0ZDIiLCJpYXQiOjE3MzUzNzk4NTIsImV4cCI6MTczNTM4MDc1Mn0.XHKeJFYHwxmaSCBWcDGrpAz8qADjvkZSuxfBXzZK5Og; Path=/; HttpOnly; Expires=Sat, 28 Dec 2024 10:12:32 GMT;
+
+accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZmYmRmNTMxNWUzYTcxNDc5ZWE0ZDIiLCJpYXQiOjE3MzUzNzk5MTYsImV4cCI6MTczNTM4MDgxNn0.QJRsuPdDCgSyNNpW0PO_M0J6aXbxgz6qjYHhOZO_eKM; Path=/; HttpOnly; Expires=Sat, 28 Dec 2024 10:13:36 GMT;
+
+accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZmYmRmNTMxNWUzYTcxNDc5ZWE0ZDIiLCJpYXQiOjE3MzUzNzk5NzQsImV4cCI6MTczNTM4MDg3NH0.zAltG_Wc8S5VZcEi5hg3vfzmTOHYipQLAVoUrZGrYRE; Path=/; HttpOnly; Expires=Sat, 28 Dec 2024 10:14:34 GMT;
